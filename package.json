@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "description": "Test repo for merge-pull-requests-by-title script",
   "dependencies": {
-    "undici": "6.23.0"
+    "undici": "6.24.1"
   }
 }
